@@ -40,3 +40,9 @@ public class Hello
    static String helloMessage;
    
 }
+
+222222222222222222222222222222222222222222222222
+
+Same code different method
+
+
